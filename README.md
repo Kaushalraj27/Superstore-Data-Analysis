@@ -23,7 +23,6 @@ To explore and analyze the Superstore sales data to identify trends in sales, pr
 - **Python**
 - **Pandas & NumPy**
 - **Power BI**
-- **SQL**
 - **Matplotlib & Seaborn** (optional for visualization in Python)
 - **Jupyter Notebook**
 
