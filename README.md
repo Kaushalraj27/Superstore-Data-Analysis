@@ -2,8 +2,6 @@
 Internship- Sparks Foundation
 
 
-Superstore Data Analysis Project – Performed in-depth exploratory data analysis on a retail dataset during my internship at The Sparks Foundation. Utilized Python and Power BI to uncover key business insights such as regional performance, profit-loss trends, and the impact of discounts. Delivered a dashboard for data-driven decision-making.
-
 # 📊 Superstore Data Analysis – Internship Project @ The Sparks Foundation
 
 This repository showcases the work done during my **Data Science & Business Analytics internship** at **The Sparks Foundation** under the GRIP (Graduate Rotational Internship Program). The primary goal of this project was to perform **Exploratory Data Analysis (EDA)** on a retail dataset (Superstore) and uncover actionable business insights using **Power BI**, **Python**, **SQL**, and **Pandas**.
