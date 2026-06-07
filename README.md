@@ -8,6 +8,9 @@ This repository showcases the work done during my **Data Science & Business Anal
 
 ---
 
+## 📸 Dashboard Preview
+![dashboard_page-0001](https://github.com/user-attachments/assets/d6a4a700-dfdb-40d2-97c5-aa3bd2333f53)
+
 ## 🚀 Project Overview
 
 🧠 **Objective**:  
@@ -58,8 +61,6 @@ To explore and analyze the Superstore sales data to identify trends in sales, pr
 
 ---
 
-## 📸 Dashboard Preview
-![dashboard_page-0001](https://github.com/user-attachments/assets/d6a4a700-dfdb-40d2-97c5-aa3bd2333f53)
 
 
 ## 📫 Contact
