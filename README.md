@@ -64,8 +64,7 @@ To explore and analyze the Superstore sales data to identify trends in sales, pr
 
 
 ## 📫 Contact
-
-- 📧 kaushal.raj.tech22@gsv.ac.in  
+ 
 - 🌐 [LinkedIn](https://linkedin.com/in/kaushal-raj21)  
 - 💻 [GitHub Portfolio](https://github.com/Kaushalraj27)
 
